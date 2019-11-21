@@ -2,5 +2,5 @@
 Deep Learning notebbooks
 
 
-Assignment 2 : Lenet and VGG
-Assignment 3: Dog Breed classifier with tensorboard visualization
+-Assignment 2 : Lenet and VGG
+-Assignment 3: Dog Breed classifier with tensorboard visualization
