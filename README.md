@@ -2,7 +2,7 @@
 Deep Learning notebbooks
 
 
--Assignment 2 : Lenet and VGG <br/>
+-Assignment 2 : Lenet and VGG (VGG_and_Lenet.ipynb and VGG_and_Lenet_with_TPU_Support.ipynb) <br/>
 -Assignment 3: Dog Breed classifier with tensorboard visualization <br/>
 -Assignment 4: The folder contains notebooks for the following:<br/>
 • i) YOLO v3
