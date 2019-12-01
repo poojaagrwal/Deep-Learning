@@ -4,7 +4,7 @@ Deep Learning notebbooks
 
 -Assignment 2 : Lenet and VGG <br/>
 -Assignment 3: Dog Breed classifier with tensorboard visualization <br/>
--Assignment 4: The folder contains notebooks for the following:
+-Assignment 4: The folder contains notebooks for the following:<br/>
 • i) YOLO v3
 
   ii) deeplab+
